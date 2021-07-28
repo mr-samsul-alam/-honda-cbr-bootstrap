@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Container Customization Style Start  */
+header {
+  background-color: #264653;
+  height: 698px;
+}
+
+.button-color {
+  background-color: #e76f51;
+}
