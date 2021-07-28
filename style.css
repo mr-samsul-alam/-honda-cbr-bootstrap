@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Poppins", sans-serif;
 }
 /* Container Customization Style Start  */
 header {
@@ -11,7 +12,6 @@ header {
 .button-color {
   background-color: #e76f51;
 }
-.text-color{
-    color: #e76f51;
-
+.text-color {
+  color: #e76f51;
 }
